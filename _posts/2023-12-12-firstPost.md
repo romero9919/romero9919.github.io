@@ -53,4 +53,4 @@ Link Tag
 **Bold**
 
 ![Alt 코산호](../assets/images/000a.png)
-<img src="../assets/images/000a.png" width="150px" title="Pixel Width" alt="코산호"></img>
+<img src="../assets/images/000a.png" width="150px" title="Pixel Width" alt="코산호">
