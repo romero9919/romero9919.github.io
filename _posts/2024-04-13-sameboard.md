@@ -1,4 +1,5 @@
 ---
+published: true
 layout: single
 title: "Same Board, Other Ways"
 ---
