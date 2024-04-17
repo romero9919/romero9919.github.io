@@ -6,6 +6,24 @@ title: "Same Board, Other Ways"
 
 # Same Board, Other Ways.
 
+
+![Alt 게시판 화면 캡쳐](../assets/images/portcapture1.png)
+<img src="../assets/images/portcapture1.png" width="500px" title="Pixel Width" alt="게시판">
+
+링크
+---
+[Node.js / Express](http://3.34.240.139:3000/)
+[Node.js / Express Github](https://github.com/romero9919/board_express)
+
+[Springboot](http://3.34.240.139:8080/)
+[Springboot Github](https://github.com/romero9919/board_spboot)
+
+[Spring]()
+[Spring Github](https://github.com/romero9919/spbbs)
+
+[php Github](https://github.com/romero9919/board_php)
+
+
 개요
 ---
 
@@ -15,5 +33,11 @@ title: "Same Board, Other Ways"
 프로젝트 설정
 ---
 
-MySQL, AWS RDS/EC2/VPC, Bootstrap, jQuery 공통 활용 
-
+디자인 / jQuery, Bootstrap, Summernote 사용
+DB / MySQL, AWS RDB 사용
+백엔드 프레임워크
+1. Node.js & Express
+2. SpringBoot
+3. Spring Legacy
+4. php
+   
