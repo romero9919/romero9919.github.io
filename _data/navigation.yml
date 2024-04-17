@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About Me"
-    url: /about/
+    url: /aboutme/
   - title: "pf #1"
     url: /jspboard/
   - title: "pf #2"
