@@ -8,7 +8,7 @@ title: "Same Board, Other Ways"
 
 
 ![Alt 게시판 화면 캡쳐](../assets/images/portcapture1.png)
-<img src="../assets/images/portcapture1.png" width="500px" title="Pixel Width" alt="게시판">
+
 
 링크
 ---
@@ -34,8 +34,10 @@ title: "Same Board, Other Ways"
 ---
 
 디자인 / jQuery, Bootstrap, Summernote 사용
+
 DB / MySQL, AWS RDB 사용
-백엔드 프레임워크
+
+백엔드
 1. Node.js & Express
 2. SpringBoot
 3. Spring Legacy
