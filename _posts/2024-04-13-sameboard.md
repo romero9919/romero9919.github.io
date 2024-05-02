@@ -18,7 +18,7 @@ title: "Same Board, Other Ways"
 [Springboot](http://3.34.240.139:8080/)
 [Springboot Github](https://github.com/romero9919/board_spboot)
 
-[Spring]()
+[Spring](http://3.34.240.139/spbbs/list?page=1)
 [Spring Github](https://github.com/romero9919/spbbs)
 
 [php Github](https://github.com/romero9919/board_php)
